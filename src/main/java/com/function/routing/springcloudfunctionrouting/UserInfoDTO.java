@@ -1,4 +1,4 @@
-package com.function.routing.springcloudfunctionrouting.model;
+package com.function.routing.springcloudfunctionrouting;
 
 
 import lombok.AllArgsConstructor;

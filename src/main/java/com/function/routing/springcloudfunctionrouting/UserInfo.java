@@ -1,4 +1,4 @@
-package com.function.routing.springcloudfunctionrouting.model;
+package com.function.routing.springcloudfunctionrouting;
 
 import java.util.function.Function;
 import lombok.extern.slf4j.Slf4j;
